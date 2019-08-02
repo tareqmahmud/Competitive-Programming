@@ -1,0 +1,19 @@
+# IDE
+.vscode/
+.idea/
+
+# Compile
+/out/
+cmake-build-debug/
+main.cpp
+CMakeLists.txt
+
+# Executables
+*.exe
+*.out
+*.app
+temp.py
+temp.js
+temp.c
+temp.cpp
+test/*
